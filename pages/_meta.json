@@ -2,9 +2,9 @@
   "index": {
     "display": "hidden"
   },
-  "Foundations": "Foundations",
-  "Components": "Components",
-  "Design patterns": "Design patterns",
+  "coundations": "Foundations",
+  "components": "Components",
+  "design-patterns": "Design patterns",
   "about": {
     "title": "About",
     "type": "page"
