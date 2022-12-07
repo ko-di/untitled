@@ -3,7 +3,15 @@
     "display": "hidden"
   },
   "foundations": "Foundations",
+  "Foundations": {
+    "title": "Foundation",
+    "type":"page"
+  },
   "components": "Components",
+  "Components":{
+    "title": "Components",
+    "type": "page"
+  },
   "about": {
     "title": "About",
     "type": "page"
