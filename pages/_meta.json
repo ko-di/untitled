@@ -1,7 +1,10 @@
 {
-  "index": "Getting started",
-  "another": "Another Page",
-  "advanced": "Advanced (A Folder)",
+  "index": {
+    "display": "hidden"
+  },
+  "foundations": "foundations",
+  "components": "components",
+  "patterns": "patterns",
   "about": {
     "title": "About",
     "type": "page"
@@ -9,7 +12,7 @@
   "contact": {
     "title": "Contact ↗",
     "type": "page",
-    "href": "https://twitter.com/shuding_",
+    "href": "https://twitter.com/kodi_dsgn",
     "newWindow": true
   }
 }
