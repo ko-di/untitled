@@ -1,8 +1,11 @@
 {
   "index": {
     "display": "hidden"
-  },
+  }
+{
+  "foundations": "Foundations",
 
+},
   "about": {
     "title": "About",
     "type": "page"
