@@ -2,10 +2,7 @@
   "index": {
     "display": "hidden"
   },
-{
-  "foundations": "Foundations",
 
-},
   "about": {
     "title": "About",
     "type": "page"
@@ -16,5 +13,5 @@
     "type": "page",
     "href": "https://twitter.com/kodi_dsgn",
     "newWindow": true
-  },
+  }
 }
